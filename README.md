@@ -4,18 +4,18 @@ with specular lighting and diffuse lighting and you can upload your own models t
 
 ## Features:
 
-1. VAOs
-1. VBOs
-1. EBOs
-1. Textures
+- VAOs
+- VBOs
+- EBOs
+- Textures
    ![image](https://github.com/Esmail-ibraheem/Renderer-Engine/assets/113830751/5c731ece-2086-43b5-a18c-b8cf76ffcdcd)
 -----
-5. Diffuse Lighting
+- Diffuse Lighting
    ![image](https://github.com/Esmail-ibraheem/Renderer-Engine/assets/113830751/8e078260-8068-4aa6-a3fc-3f9fa60ff5aa)
 -----
-6. Specular Lighting
-7. Normals
-8. Object Loader Engine
+- Specular Lighting
+- Normals
+- Object Loader Engine
    ![image](https://github.com/Esmail-ibraheem/Renderer-Engine/assets/113830751/28ae317a-294d-4e63-80a5-e639ced7ce11)
 
 
